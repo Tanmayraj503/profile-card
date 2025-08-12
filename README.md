@@ -12,7 +12,6 @@ This is designed to be a **personal portfolio component**, but can be adapted fo
 ---
 
 ## 📸 Preview
-![Profile Card Demo]
 <img width="200" height="245" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/c1055de8-e0b2-4c33-bb1c-fce8fabac243" />
 
 ---
